@@ -50,7 +50,6 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="button" destination="mna-bS-dsd" id="36N-wD-uqc"/>
                         <outlet property="diceImageView1" destination="xc7-Zj-FCY" id="nmp-Lt-FH5"/>
                         <outlet property="diceImageView2" destination="PCV-9O-Maf" id="CnN-Yw-K6X"/>
                     </connections>
